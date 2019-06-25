@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+.center{
+	text-align:center;
+}
+
+.m{
+	margin:auto;
+}
+
+table{
+	height:500px;
+	margin-top:40px;
+}
+
+table td{
+	width:500px;
+}
+h1{
+	text-align:center;
+}
+
+h4{
+	text-align:center;
+}
+
+
+header{
+	height:auto;
+}
+label{
+	background-color:white;
+	height:60px;
+	width:500px;
+}
+
+textarea{
+	resize:both;
+	height:60px;
+	width:500px;
+
+}
+
+img{
+	height:30px;
+	width:30px;
+}
+p{
+	margin:auto;
+}
+body{
+	text-align:center;
+}
